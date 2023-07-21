@@ -57,7 +57,7 @@ To run tests, run the following command:
 ```bash
 npm test
 ```
-Please note that there are currently no tests for this application.
+Please notee that there are currently no tests for this application.
 
 ## Questions
 
