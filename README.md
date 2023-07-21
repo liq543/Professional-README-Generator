@@ -33,7 +33,7 @@ This will install the Inquirer package which is necessary for the application to
 To use this application, clone the repository to your local machine:
 
 ```bash
-git clone git+https://github.com/liq543/Professional-README-Generator.git
+git clone git@github.com:liq543/Professional-README-Generator.git
 ```
 Then, navigate into the cloned directory and run the application with Node.js:
 
