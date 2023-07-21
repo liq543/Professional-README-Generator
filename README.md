@@ -28,7 +28,7 @@ This will install the Inquirer package which is necessary for the application to
 
 ![screenshot](https://i.imgur.com/Wsnw8S3.png)
 
-https://i.imgur.com/XRK8JuK.mp4
+![demo](https://i.imgur.com/XRK8JuK.mp4)
 
 To use this application, clone the repository to your local machine:
 
