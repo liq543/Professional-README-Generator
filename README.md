@@ -28,7 +28,7 @@ This will install the Inquirer package which is necessary for the application to
 
 ![screenshot](https://i.imgur.com/Wsnw8S3.png)
 
-![Demo](https://i.imgur.com/3K8hvcm.mp4)
+https://i.imgur.com/XRK8JuK.mp4
 
 To use this application, clone the repository to your local machine:
 
@@ -57,7 +57,7 @@ To run tests, run the following command:
 ```bash
 npm test
 ```
-Please not that there are currently no tests for this application.
+Please note that there are currently no tests for this application.
 
 ## Questions
 
