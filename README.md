@@ -26,6 +26,10 @@ This will install the Inquirer package which is necessary for the application to
 
 ## Usage
 
+![screenshot](https://imgur.com/Wsnw8S3)
+
+![Demo](./demo.webm)
+
 To use this application, clone the repository to your local machine:
 
 ```bash
