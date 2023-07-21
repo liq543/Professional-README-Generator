@@ -26,9 +26,9 @@ This will install the Inquirer package which is necessary for the application to
 
 ## Usage
 
-![screenshot](https://imgur.com/Wsnw8S3)
+![screenshot](https://i.imgur.com/Wsnw8S3.png)
 
-![Demo](./demo.webm)
+![Demo](https://i.imgur.com/3K8hvcm.mp4)
 
 To use this application, clone the repository to your local machine:
 
